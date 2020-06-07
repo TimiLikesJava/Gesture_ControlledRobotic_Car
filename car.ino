@@ -1,5 +1,5 @@
 //for car
-// for any question email at Hammadiqbal12@gmail.com
+
 
 
 #include <SoftwareSerial.h>
