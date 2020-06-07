@@ -1,6 +1,6 @@
 
 //for glove
-// for any question email at Hammadiqbal12@gmail.com
+
 
 #include <SoftwareSerial.h>
 #include <GY6050.h>
